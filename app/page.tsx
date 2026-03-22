@@ -38,7 +38,7 @@ export default function Home() {
             </svg>
           </a>
           <a 
-            href="https://www.linkedin.com/in/alexandruprodan/"
+            href="https://www.linkedin.com/in/alexandru-prodan/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-accent hover:-translate-y-1 transition-all"

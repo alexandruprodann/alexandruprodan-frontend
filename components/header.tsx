@@ -13,7 +13,7 @@ const navLinks = [
 
 const socialLinks = [
   { href: "https://github.com/alexandruprodann", icon: Github, label: "GitHub" },
-  { href: "https://www.linkedin.com/in/alexandruprodan/", icon: Linkedin, label: "LinkedIn" },
+  { href: "https://www.linkedin.com/in/alexandru-prodan/", icon: Linkedin, label: "LinkedIn" },
   { href: "mailto:contact@alexandruprodan.com", icon: Mail, label: "Email" },
 ]
 

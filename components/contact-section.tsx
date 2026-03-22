@@ -4,7 +4,7 @@ import { Github, Linkedin, Mail, MapPin, Send } from "lucide-react"
 
 const socialLinks = [
   { href: "https://github.com/alexandruprodann", icon: Github, label: "GitHub", username: "@alexandruprodann" },
-  { href: "https://www.linkedin.com/in/alexandruprodan/", icon: Linkedin, label: "LinkedIn", username: "alexandruprodan" },
+  { href: "https://www.linkedin.com/in/alexandru-prodan/", icon: Linkedin, label: "LinkedIn", username: "alexandruprodan" },
   { href: "mailto:contact@alexandruprodan.com", icon: Mail, label: "Email", username: "contact@alexandruprodan.com" },
 ]
 
