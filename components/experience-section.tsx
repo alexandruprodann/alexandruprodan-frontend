@@ -14,7 +14,7 @@ const experiences = [
       "Triggered and validated scheduled jobs and workflows running in Kubernetes environments. ",
       "Collaborated with developers and QA teams to validate backend behavior and system reliability. ",
     ],
-    skills: ["Manual Testing", "JIRA", "Agile", "Test Planning", "Bug Tracking"],
+    skills: ["Backend Testing", "SQL Validation", "Kubernetes", "Kibana Monitoring", "Data Integrity"],
   },
   {
     company: "Personal Development",

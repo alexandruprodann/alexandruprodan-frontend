@@ -52,7 +52,7 @@ export function AboutSection() {
               test plans and detailed test cases.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Beyond QA and coding, I enjoy learning German, playing video games, hitting 
+              Beyond QA and coding, I enjoy learning new languages, hitting 
               the gym, and traveling to explore new cultures.
             </p>
 
