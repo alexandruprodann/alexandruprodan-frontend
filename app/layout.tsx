@@ -16,8 +16,7 @@ const spaceMono = Space_Mono({
 
 export const metadata: Metadata = {
   title: 'Alexandru Prodan - QA Engineer',
-  description: 'QA Manual Engineer with 3+ years of experience, passionate about automation testing and clean code.',
-  generator: 'v0.app',
+  description: 'QA Manual Engineer with 5+ years of experience, passionate about automation testing and clean code.',
   icons: {
     icon: [
       {

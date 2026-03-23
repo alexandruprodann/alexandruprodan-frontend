@@ -5,15 +5,14 @@ import { cn } from "@/lib/utils"
 
 const experiences = [
   {
-    company: "Current Role",
-    title: "QA Manual Engineer",
-    period: "2021 — Present",
+    company: "S&P Global",
+    title: "QA Engineer",
+    period: "June 2025 — Present",
     description: [
-      "Participate in daily stand-ups and sprint planning sessions, collaborating closely with development teams",
-      "Test software across multiple operating systems and browsers to ensure cross-platform compatibility",
-      "Create and maintain comprehensive test documentation including test plans and detailed test cases",
-      "Identify, document, and track software defects through to resolution using JIRA",
-      "Work with stakeholders to understand requirements and translate them into test scenarios",
+      "Validated backend data flows and business logic using SQL to ensure data correctness and consistency.",
+      "Tested backend systems and scheduled processes by monitoring services and logs in Kibana.",
+      "Triggered and validated scheduled jobs and workflows running in Kubernetes environments. ",
+      "Collaborated with developers and QA teams to validate backend behavior and system reliability. ",
     ],
     skills: ["Manual Testing", "JIRA", "Agile", "Test Planning", "Bug Tracking"],
   },

@@ -74,7 +74,7 @@ export function HeroSection() {
           <span className="inline-block w-0.5 h-[1em] bg-accent ml-1 animate-pulse" />
         </h2>
         <p className="text-muted-foreground text-lg md:text-xl max-w-2xl leading-relaxed mb-12">
-          A dedicated QA Manual Engineer with over 3 years of experience, passionate about 
+          A dedicated QA Engineer with over 5 years of experience, passionate about 
           programming and committed to delivering quality software. Currently focused on 
           advancing my skills in <span className="text-accent">Automation Testing</span>.
         </p>

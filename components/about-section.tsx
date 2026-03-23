@@ -21,7 +21,6 @@ const technologies = [
   "Maven",
   "CI/CD",
   "SQL",
-  "DevTools",
 ]
 
 export function AboutSection() {
@@ -41,8 +40,8 @@ export function AboutSection() {
           <div className="space-y-6">
             <p className="text-muted-foreground leading-relaxed text-lg">
               Welcome to my corner of the web! I am a dedicated{" "}
-              <span className="text-foreground font-medium">QA Manual Engineer</span> with over 
-              three years of experience. I focus on making sure products work 
+              <span className="text-foreground font-medium">QA Engineer</span> with over 
+              five years of experience. I focus on making sure products work 
               well and have a growing interest in{" "}
               <span className="text-accent font-medium">Automation Testing</span>.
             </p>
